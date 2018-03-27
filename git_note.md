@@ -2,8 +2,8 @@
 Date: 2018/03/28
 
 Reference:
-* Article
-[Git 簡易使用教學]<br>(https://coderwall.com/p/yl1-ug/git--2)<br>[連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)<br>[GIT新手入門教學 – PART 1](https://hellolynn.hpd.io/2017/01/18/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-1/)<br>[GIT新手入門教學 – PART 2](https://hellolynn.hpd.io/2017/01/18/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-2/)<br>[Git達人教你搞懂GitHub基礎觀念](https://www.ithome.com.tw/news/95283)
+* Article<br>
+[Git 簡易使用教學](https://coderwall.com/p/yl1-ug/git--2)<br>[連猴子都能懂的Git入門指南](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)<br>[GIT新手入門教學 – PART 1](https://hellolynn.hpd.io/2017/01/18/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-1/)<br>[GIT新手入門教學 – PART 2](https://hellolynn.hpd.io/2017/01/18/git%E6%96%B0%E6%89%8B%E5%85%A5%E9%96%80%E6%95%99%E5%AD%B8-part-2/)<br>[Git達人教你搞懂GitHub基礎觀念](https://www.ithome.com.tw/news/95283)
 [Git Tutorial](https://github.com/twtrubiks/Git-Tutorials/blob/master/README.md)
 
 * Video<br>
